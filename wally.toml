@@ -1,6 +1,6 @@
 [package]
 name = "roblox-super-heroes/rsh-cmdr"
-version = "0.1.0"
+version = "0.1.5"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "server"
 
